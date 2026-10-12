@@ -1,0 +1,20 @@
+{
+  "name": "hanhua-local",
+  "interface": {
+    "displayName": "汉化助手本地插件源"
+  },
+  "plugins": [
+    {
+      "name": "hanhua-assistant",
+      "source": {
+        "source": "local",
+        "path": "./plugins/hanhua-assistant"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

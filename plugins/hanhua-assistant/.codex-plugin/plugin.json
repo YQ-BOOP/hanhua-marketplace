@@ -1,0 +1,42 @@
+{
+    "name":  "hanhua-assistant",
+    "version":  "0.1.0",
+    "description":  "面向简体中文的软件、网站和游戏汉化工作流，包含文本盘点、翻译规范、术语表和本地审计工具。",
+    "author":  {
+                   "name":  "Hanhua Assistant"
+               },
+    "license":  "MIT",
+    "keywords":  [
+                     "汉化",
+                     "中文化",
+                     "localization",
+                     "i18n",
+                     "l10n",
+                     "zh-CN",
+                     "translation"
+                 ],
+    "skills":  "./skills/",
+    "interface":  {
+                      "displayName":  "汉化助手",
+                      "shortDescription":  "安全地把软件汉化为简体中文",
+                      "longDescription":  "扫描项目中的用户可见文本，保留代码标识、变量、标记和占位符，按统一术语生成简体中文语言资源，并审计漏译、键缺失和格式错配问题。",
+                      "developerName":  "Hanhua Assistant",
+                      "category":  "Productivity",
+                      "capabilities":  [
+                                           "Read",
+                                           "Write"
+                                       ],
+                      "defaultPrompt":  [
+                                            "扫描这个项目，找出所有需要汉化的用户可见文本，并先给出安全汉化方案。",
+                                            "把这个应用的界面汉化为简体中文，保留占位符、标记和代码标识。",
+                                            "审计 zh-CN 语言资源，检查缺失键、未翻译文本和占位符错配。"
+                                        ],
+                      "brandColor":  "#D7263D",
+                      "screenshots":  [
+
+                                      ],
+                      "composerIcon":  "./assets/hanhua.svg",
+                      "logo":  "./assets/hanhua.svg",
+                      "logoDark":  "./assets/hanhua-dark.svg"
+                  }
+}
