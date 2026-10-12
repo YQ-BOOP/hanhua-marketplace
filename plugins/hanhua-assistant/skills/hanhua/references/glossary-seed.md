@@ -68,6 +68,34 @@
 | Render | 渲染 | |
 | Cache | 缓存 | |
 | Log | 日志 | |
+| Undo | 撤销 | |
+| Redo | 重做 | |
+| Cut | 剪切 | |
+| Copy | 复制 | |
+| Paste | 粘贴 | |
+| Select All | 全选 | |
+| Preview | 预览 | |
+| Publish | 发布 | |
+| Share | 分享 | 名词义为“份额”时按上下文处理 |
+| Draft | 草稿 | |
+| Archive | 归档 | |
+| Trash | 回收站 | 与 Delete（删除）区分 |
+| Attachment | 附件 | |
+| Comment | 评论 | |
+| Reply | 回复 | |
+| Mention | 提及 | @ 提醒场景可用“提及” |
+| Invite | 邀请 | |
+| Member | 成员 | |
+| Team | 团队 | |
+| Subscribe | 订阅 | |
+| Follow | 关注 | |
+| Block | 屏蔽 | |
+| Mute | 静音 | 通知场景可用“免打扰” |
+| Full screen | 全屏 | |
+| Advanced | 高级 | |
+| Custom | 自定义 | |
+| Required | 必填 | |
+| Optional | 可选 | |
 
 ## 常见误译对照
 
@@ -86,6 +114,12 @@
 | Sync | 同步化 | 同步 | 中文不追加“化” |
 | Confirm | 肯定 | 确认 | |
 | Invalid | 无效的 / 不合法 | 无效 / 不正确 | 避免生硬法律用语 |
+| Trash | 垃圾 | 回收站 | 指功能位置而非垃圾本身 |
+| Mention | 提到 | 提及 | 与 @ 提醒功能对应 |
+| Mute | 哑巴 / 无声 | 静音 | 通知场景用“免打扰” |
+| Follow | 跟随 | 关注 | 社交语境不用“跟随” |
+| Attachment | 依恋 | 附件 | 文件场景 |
+| Share | 份额 | 分享 | 金融语境才用“份额” |
 
 ## 使用方式
 

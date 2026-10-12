@@ -1,6 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="汉化助手">
-  <rect width="128" height="128" rx="28" fill="#171717"/>
-  <rect x="4" y="4" width="120" height="120" rx="25" fill="none" stroke="#D7263D" stroke-width="6"/>
-  <path d="M26 32h76v10H68v9h28v10H68v10h32v10H60V52H45c3 13 13 25 28 34l-7 8C50 84 38 68 34 50H26V40h8v-8zm44 0h10v9H70v-9z" fill="#FFFFFF"/>
-  <path d="M80 83h10v17h13v10H60v-10h20V83z" fill="#FFFFFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="汉化助手">
+  <title>汉化助手</title>
+  <defs>
+    <linearGradient id="hhDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F2576B"/>
+      <stop offset="1" stop-color="#D7263D"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="11" fill="url(#hhDark)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="4.2" stroke-linecap="round">
+    <path d="M24 9.6V13.1"/>
+    <path d="M12.8 17.8H35.2"/>
+    <path d="M27.6 21.6 16.9 37.2"/>
+    <path d="M20.4 21.6 31.1 37.2"/>
+  </g>
 </svg>
