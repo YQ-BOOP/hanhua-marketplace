@@ -55,6 +55,37 @@
 | Version | 版本 | |
 | Recent | 最近 | |
 | Default | 默认 | |
+| Library | 库 | 音乐、照片、字体等资源集合 |
+| Storage | 存储 | 不译为“储藏” |
+| Report | 报告 / 举报 | 名词多为“报告”，用户举报行为用“举报” |
+| Sign up | 注册 | 与 Sign in（登录）区分 |
+| Verify | 验证 | 身份或邮箱验证 |
+| Reset | 重置 | 与“恢复”（Restore）区分 |
+| Restore | 恢复 | |
+| Refresh | 刷新 | |
+| Pin | 固定 | 部分场景可用“置顶” |
+| Format | 格式 / 格式化 | 名词“格式”，动词操作“格式化” |
+| Render | 渲染 | |
+| Cache | 缓存 | |
+| Log | 日志 | |
+
+## 常见误译对照
+
+| 英文 | ❌ 常见错译 | ✅ 建议 | 说明 |
+| --- | --- | --- | --- |
+| Import / Export | 进口 / 出口 | 导入 / 导出 | 数据场景不用贸易用语 |
+| Backup | 后台 / 后备 | 备份 | 与 backstage 无关 |
+| Plugin / Extension | 一律译“插件” | 插件 / 扩展 | 浏览器扩展不叫插件 |
+| Settings / Preferences | 一律译“设置” | 设置 / 首选项 | 以平台惯例为准 |
+| Shortcut | 一律译“快捷方式” | 快捷键 / 快捷方式 | 按键用前者，文件用后者 |
+| Profile | 一律译“配置文件” | 个人资料 / 配置文件 | 用户身份 vs 配置档案 |
+| Remove / Delete | 一律译“删除” | 移除 / 删除 | Remove 多为从列表移出 |
+| Update / Upgrade | 一律译“升级” | 更新 / 升级 | Update 是内容更新，Upgrade 是版本提升 |
+| Report | 一律译“报告” | 报告 / 举报 | 用户投诉行为用“举报” |
+| Storage | 储藏 | 存储 | 计算机用语 |
+| Sync | 同步化 | 同步 | 中文不追加“化” |
+| Confirm | 肯定 | 确认 | |
+| Invalid | 无效的 / 不合法 | 无效 / 不正确 | 避免生硬法律用语 |
 
 ## 使用方式
 

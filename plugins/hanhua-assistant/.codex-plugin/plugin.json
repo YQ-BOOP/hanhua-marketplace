@@ -1,6 +1,6 @@
 {
     "name":  "hanhua-assistant",
-    "version":  "0.1.1",
+    "version":  "0.2.0",
     "description":  "面向简体中文的软件、网站和游戏汉化工作流，包含文本盘点、翻译规范、术语表和本地审计工具。",
     "author":  {
                    "name":  "Hanhua Assistant"
