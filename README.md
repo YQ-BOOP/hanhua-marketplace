@@ -84,6 +84,10 @@ powershell -ExecutionPolicy Bypass -File .\plugins\hanhua-assistant\skills\hanhu
 插件**不会**绕过程序保护，也不执行未授权修改。遇到编码、文件格式或打包流程未知时，
 会先分析再处理。
 
+## 更新日志
+
+见 [CHANGELOG.md](CHANGELOG.md)。
+
 ## 许可
 
 [MIT](LICENSE)

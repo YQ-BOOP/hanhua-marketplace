@@ -39,6 +39,22 @@
 | File | 文件 | |
 | Folder | 文件夹 | |
 | Workspace | 工作区 | 依产品语气可调整为“空间” |
+| Dashboard | 仪表盘 | 数据总览页；部分产品用“看板”，以既有译法为准 |
+| Template | 模板 | |
+| Sync | 同步 | 状态文案可用“正在同步” |
+| Backup | 备份 | |
+| Export | 导出 | |
+| Import | 导入 | |
+| Plugin | 插件 | |
+| Extension | 扩展 | 浏览器扩展不译为“插件” |
+| Theme | 主题 | |
+| Profile | 个人资料 / 配置文件 | 区分用户资料与配置档案 |
+| Shortcut | 快捷键 / 快捷方式 | 键盘用“快捷键”，文件用“快捷方式” |
+| Tutorial | 教程 | |
+| Feedback | 反馈 | |
+| Version | 版本 | |
+| Recent | 最近 | |
+| Default | 默认 | |
 
 ## 使用方式
 
